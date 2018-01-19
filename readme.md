@@ -10,4 +10,8 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 Simple drum kit that can be played on the keyboard.
 
 ## [Day 2 - JS and CSS Clock](http://projects.andrewdallow.nz/javascript30/day2/)
-Simple analogue clock displaying the current time using CSS transformations and transistions and javascript to determine the position of the hands.
+Simple analogue clock displaying the current time using CSS transformations and transitions and JavaScript to determine the position of the hands.
+
+
+## [Day 3 - CSS Variables](http://projects.andrewdallow.nz/javascript30/day3/)
+Use CSS Variables and JavaScript along with HTML sliders and a colour picker to dynamically change the styling of picture and background.
