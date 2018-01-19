@@ -94,15 +94,22 @@ const people = ['Beck, Glenn', 'Becker, Carl', 'Beckett, Samuel', 'Beddoes, Mick
 console.log("1. Filter the list of inventors for those who were born in the 1500's");
 const fifteen = inventors.filter(inventor => (inventor.year >= 1500 && inventor.year < 1600));
 console.table(fifteen);
+
+
 // Array.prototype.map()
 console.log("2. Give us an array of the inventors' first and last names");
 const fullNames = inventors.map(inventor => (`${inventor.first} ${inventor.last}`));
 console.log(fullNames);
+
+
+
 // Array.prototype.sort()
 console.log("3. Sort the inventors by birthdate, oldest to youngest");
-
 const ordered = inventors.sort((first, second) => first.year > second.year ? 1 : -1);
 console.table(ordered);
+
+
+
 // Array.prototype.reduce()
 console.log("4. How many years did all the inventors live?");
 
@@ -117,6 +124,8 @@ const oldest = inventors.sort(function(first, last) {
   return (firstGuy < lastGuy ? 1 : -1);
 });
 console.table(oldest);
+
+
 // 6. create a list of Boulevards in Paris that contain 'de' anywhere in the name
 // https://en.wikipedia.org/wiki/Category:Boulevards_in_Paris
 
@@ -140,6 +149,9 @@ const alpha = people.sort((lastOne, nextOne) => {
 
 });
 console.table(alpha);
+
+
+
 // 8. Reduce Exercise
 console.log("8. Sum up the instances of each of these");
 const data = ['car', 'car', 'truck', 'truck', 'bike', 'walk', 'car', 'van',
