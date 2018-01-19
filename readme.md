@@ -15,3 +15,6 @@ Simple analogue clock displaying the current time using CSS transformations and 
 
 ## [Day 3 - CSS Variables](http://projects.andrewdallow.nz/javascript30/day3/)
 Use CSS Variables and JavaScript along with HTML sliders and a colour picker to dynamically change the styling of picture and background.
+
+## [Day 4 - Array Cardio 1](http://projects.andrewdallow.nz/javascript30/day4/)
+Use of JavaScript Arrays to manipulate data such as, filtering, sorting, reducing.
