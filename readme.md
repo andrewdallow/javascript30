@@ -21,3 +21,6 @@ Use of JavaScript Arrays to manipulate data such as, filtering, sorting, reducin
 
 ## [Day 5 - Flex Penel Gallery](http://projects.andrewdallow.nz/javascript30/day5/)
 Use flex box in CSS with JavaScript to create an image gallery with images that when clicked expand/contract in size and animates overlaying text.
+
+## [Day 6 - Ajax Type Ahead](http://projects.andrewdallow.nz/javascript30/day6/)
+Search a list of cities showing the results below as the word is typed.
