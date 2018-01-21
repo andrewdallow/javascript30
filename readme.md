@@ -24,3 +24,6 @@ Use flex box in CSS with JavaScript to create an image gallery with images that 
 
 ## [Day 6 - Ajax Type Ahead](http://projects.andrewdallow.nz/javascript30/day6/)
 Search a list of cities showing the results below as the word is typed.
+
+## [Day 7 - Array Cardio 2](http://projects.andrewdallow.nz/javascript30/day7/)
+Use of JavaScript Arrays to manipulate data such as; some, every, find, and findIndex.
