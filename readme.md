@@ -27,3 +27,6 @@ Search a list of cities showing the results below as the word is typed.
 
 ## [Day 7 - Array Cardio 2](http://projects.andrewdallow.nz/javascript30/day7/)
 Use of JavaScript Arrays to manipulate data such as; some, every, find, and findIndex.
+
+## [Day 8 - Fun with HTML5 Canvas](http://projects.andrewdallow.nz/javascript30/day8/)
+Use HTML5 Canvas to draw a line in the window which varies in colour and width.
