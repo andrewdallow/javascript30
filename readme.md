@@ -33,3 +33,6 @@ Use HTML5 Canvas to draw a line in the window which varies in colour and width.
 
 ## [Day 9 - Must Know Dev Tool Tricks](http://projects.andrewdallow.nz/javascript30/day9/)
 Examples of different ways to use the developer console tools for JavaScript.
+
+## [Day 10 - Hold Shift to Check Multiple Checkboxes ](http://projects.andrewdallow.nz/javascript30/day10/)
+JavaScript which allows one to select multiple checkboxes by holding shift.  
