@@ -39,3 +39,6 @@ JavaScript which allows one to select multiple checkboxes by holding shift.
 
 ## [Day 11 - Custom video player ](http://projects.andrewdallow.nz/javascript30/day11/)
 A custom html5 video player with a play button, volume, speed, and skip controls as well as a toggle full screen button.
+
+## [Day 12 - Key Sequence Detection ](http://projects.andrewdallow.nz/javascript30/day12/)
+Detect a Sequence of presses keys and then respond.
