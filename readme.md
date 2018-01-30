@@ -36,3 +36,6 @@ Examples of different ways to use the developer console tools for JavaScript.
 
 ## [Day 10 - Hold Shift to Check Multiple Checkboxes ](http://projects.andrewdallow.nz/javascript30/day10/)
 JavaScript which allows one to select multiple checkboxes by holding shift.  
+
+## [Day 11 - Custom video player ](http://projects.andrewdallow.nz/javascript30/day11/)
+A custom html5 video player with a play button, volume, speed, and skip controls as well as a toggle full screen button.
