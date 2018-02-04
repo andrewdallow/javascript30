@@ -1,4 +1,4 @@
-// Reduces the frequency ar which a function is called
+// Reduces the frequency at which a function is called
 function debounce(func, wait = 20, immediate = true) {
   var timeout;
   return function() {
