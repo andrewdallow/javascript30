@@ -47,7 +47,7 @@ Detect a Sequence of presses keys and then respond.
 Slide images in from the side of the page when scrolling and slide them out when no longer visible.
 
 ## [Day 14 - Reference Vs. Copy](http://projects.andrewdallow.nz/javascript30/day14/)
-Explore the difference between referencing and copying Arrays and objects.
+Explore the difference between referencing and copying Arrays and objects.   
 
 ## [Day 15 - Local Storage](http://projects.andrewdallow.nz/javascript30/day15/)
 Use Local Storage to store a list of items and whether they were checked or not.
