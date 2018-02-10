@@ -50,4 +50,4 @@ Slide images in from the side of the page when scrolling and slide them out when
 Explore the difference between referencing and copying Arrays and objects.
 
 ## [Day 15 - Local Storage](http://projects.andrewdallow.nz/javascript30/day15/)
-Use Local Storage to store a list of items and weather they were checked or not. 
+Use Local Storage to store a list of items and whether they were checked or not.
