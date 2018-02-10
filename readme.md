@@ -44,4 +44,7 @@ A custom html5 video player with a play button, volume, speed, and skip controls
 Detect a Sequence of presses keys and then respond.
 
 ## [Day 13 - Slide in on Scroll](http://projects.andrewdallow.nz/javascript30/day13/)
-Slide images in from the side of the page when scrolling and slide them out when no longer visible. 
+Slide images in from the side of the page when scrolling and slide them out when no longer visible.
+
+## [Day 14 - Reference Vs. Copy](http://projects.andrewdallow.nz/javascript30/day14/)
+Explore the difference between referencing and copying Arrays and objects.
